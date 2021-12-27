@@ -32,6 +32,14 @@ Add the following to your POM
 </project>
 ```
 
+---
+
+IMPORTANT
+
+You may need to include `-Dlog4j.skipJansi=false` as a VM option.
+
+---
+
 Recommended to use with Lombok
 
 ```xml
