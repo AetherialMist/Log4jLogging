@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.aetherialmist</groupId>
-    <artifactId>log4j-logging</artifactId>
+    <artifactId>Log4jLogging</artifactId>
     <name>AetherialMist :: Logging</name>
     <version>${revision}</version>
     <packaging>jar</packaging>
