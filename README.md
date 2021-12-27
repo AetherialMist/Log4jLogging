@@ -24,8 +24,8 @@ Add the following to your POM
     <dependencies>
         <!-- Basic Logging Support -->
         <dependency>
-            <groupId>com.github.aetherialmist</groupId>
-            <artifactId>logging</artifactId>
+            <groupId>com.github.AetherialMist</groupId>
+            <artifactId>Log4jLogging</artifactId>
             <version>RELEASE_VERSION</version>
         </dependency>
     </dependencies>
@@ -43,6 +43,7 @@ Recommended to use with Lombok
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.22</version>
+            <!-- <version>OR_NEWER_VERSION</version> -->
             <scope>provided</scope>
         </dependency>
     </dependencies>
