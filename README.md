@@ -1,5 +1,8 @@
 # AetherialMist Logging
 
+[![](https://jitpack.io/v/AetherialMist/Log4jLogging.svg)](https://jitpack.io/#AetherialMist/Log4jLogging)
+
+
 Basic logging support using Log4j2
 
 Designed to look similar to Spring Boot without actually using Spring Boot
